@@ -1,0 +1,4 @@
+(executable
+ (public_name tic_tae_tow)
+ (name main)
+ (libraries tic_tae_tow))
